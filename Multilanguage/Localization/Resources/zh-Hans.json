@@ -1,0 +1,7 @@
+﻿{
+  "culture": "zh-Hans",
+  "texts": {
+    "Test1": "你好啊 zh-CN!",
+    "Test2": "你好啊 zh-CN!--{0},{1}"
+  }
+}

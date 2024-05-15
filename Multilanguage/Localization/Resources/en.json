@@ -1,0 +1,7 @@
+﻿{
+  "culture": "en", //语种
+  "texts": {
+    "Test1": "Hello en-US!",
+    "Test2": "你好啊 en-US!--{0},{1}"
+  }
+}
